@@ -1,0 +1,13 @@
+{
+  "name": "SupernovaX9",
+  "symbol": "SNVX9",
+  "description": "Reach for the stars with SupernovaX9!",
+  "image": "https://i.ibb.co/3FwtsH5/SNVX9-rounded-logo.png",
+  "external_url": "https://supernovax9.com",
+  "attributes": [
+    {
+      "trait_type": "Total Supply",
+      "value": "9,999,999,999"
+    }
+  ]
+}
